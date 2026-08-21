@@ -2,6 +2,29 @@
 
 int main()
 {
-    std::cout << "Hello, C++!";
+    //Header
+    std::cout << "====================\n";
+    std::cout << "  MY FIRST C++ APP\n";
+    std::cout << "====================\n";
+    
+    // Student Information
+    std::cout << "Name: Thanh Duy\n";
+    std::cout << "School: HCMUTE\n";
+    std::cout << "Major: Automotive Engineering\n";
+    std::cout << "Year: 2025-2029\n";
+
+    //Personal Information
+    std::cout <<"\n";
+    std::cout <<"My favourite language is C++\n";
+    std::cout <<"My favourite food is Pho\n";
+    std::cout <<"My favourite sport is Football\n";
+    std::cout <<"My target is to become a skilled C++ developer\n";
+
+    //Footer
+    std::cout <<"\n";
+    std::cout << "====================\n";
+    std::cout << "  KEEP CODING!\n";
+    std::cout << "====================\n";
+
     return 0;
 }
