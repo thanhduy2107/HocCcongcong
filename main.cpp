@@ -12,6 +12,7 @@ int main()
     std::cout << "School: HCMUTE\n";
     std::cout << "Major: Automotive Engineering\n";
     std::cout << "Year: 2025-2029\n";
+    std::cout << "Course: Object-Oriented Programming\n";
 
     //Personal Information
     std::cout <<"\n";
