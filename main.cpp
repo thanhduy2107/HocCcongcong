@@ -25,7 +25,7 @@ int main()
     std::cout <<"\n";
     std::cout << "====================\n";
     std::cout << "  KEEP CODING!\n";
-    std::cout << "====================\n";
+    std::cout << "===================\n";
 
     return 0;
 }
